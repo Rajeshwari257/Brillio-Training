@@ -1,0 +1,17 @@
+.button{
+    background-color:black; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .button1{
+    background-color:burlywood; /* Green */
+    border: none;
+    color:black;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 15px;
+  }
